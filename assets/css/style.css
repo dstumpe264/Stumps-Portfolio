@@ -146,8 +146,8 @@
     border: 5px solid var(--secondary);
     background-color: var(--primary);
     color: var(--tertiary);
-    min-height: 200px;
-    max-height: 200px;
+    min-height: 300px;
+    max-height: 300px;
     flex-basis: calc(50% - 1em);
     display: flex;
     align-items: flex-end;
@@ -204,7 +204,7 @@
   
   /* portfolio project images */
   .rent-a-friend {
-    background-image: url("../images/02-run-buddy.jpg");
+    background-image: url("../images/rent-a-friend.png");
   }
   
   .auto-advisor {
