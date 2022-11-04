@@ -29,6 +29,15 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
+## How to Use
+
+* Clicking on a link above will take you to that section
+* Clicking on resume will take you to a pdf of my resume
+* Clicking on an image of a project will take you to the projects home page
+* Clicking on my phone number will give you the option to call
+* Clicking on email address will give you option to send me an email
+* Clicking on GitHub will take you to my GitHub page
+* Clicking on Another Personal Site will take you to another personal site
 
 ## Technologies
 
